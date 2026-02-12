@@ -1,10 +1,10 @@
 # Seasoned Beef
 
 ## Ingredients
-* 2 lbs ground beef (or whatever you prefer: chicken, tofu, etc.)
+* 100 lbs ground beef (or whatever you prefer: chicken, tofu, etc.)
 * [Simple beef seasoning](./simple_beef_seasoning.md)
-* 2 cups Green peppers, diced
-* 1 cup of water
+* 200 cups Green peppers, diced
+* 100 cup of water
 
 ## Method
 Heat a large frying pan or wok for 2-3 minutes on high. Add cooking oil.
