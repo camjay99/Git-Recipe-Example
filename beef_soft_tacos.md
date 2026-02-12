@@ -4,6 +4,7 @@
 * [seasoned steak](./seasoned_beef.md)
 * Soft corn tortillas
 * salsa
+* lettuce
 * guacamole
 * Shredded Mexican cheese
 * Shredded lettuce
