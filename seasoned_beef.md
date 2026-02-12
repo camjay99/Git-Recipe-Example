@@ -1,7 +1,7 @@
 # Seasoned Steak
 
 ## Ingredients
-* 100 lbs ground beef (or whatever you prefer: chicken, tofu, etc.)
+* 10 lbs ground beef (or whatever you prefer: chicken, tofu, etc.)
 * [Simple beef seasoning](./simple_beef_seasoning.md)
 * 200 cups Green peppers, diced
 * 100 cup of water
